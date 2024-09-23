@@ -171,7 +171,10 @@ namespace Calculator
 		}
 		private void exitButton_Click(object sender, RoutedEventArgs e)
 		{
-
+			if (this.Frame.CanGoBack)
+			{
+				this.Frame.GoBack();
+			}
 		}
 	}
 }
