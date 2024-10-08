@@ -18,7 +18,9 @@
 				<Button Name="mathCalculatorButton" Content="Math Calculator" Height="100"  FontSize="30" HorizontalAlignment="Stretch" Margin="10 10" Padding="10 5" Background="#DB1C1C" FontWeight="Bold" Click="mathCalculatorButton_Click"/>
 				<Button Name="mortgageCalculatorButton" Content="Mortgage Calculator" Height="100" FontSize="30" HorizontalAlignment="Stretch" Margin="10 10" Padding="10 10" Background="#DB1C1C" FontWeight="Bold" Click="mortgageCalculatorButton_Click"/>
 				<Button Name="currencyConverterButton" Content="Currency Converter" Height="100" FontSize="30" HorizontalAlignment="Stretch" Margin="10 10" Padding="10 10" Background="#DB1C1C" FontWeight="Bold" Click="currencyConverterButton_Click"/>
+				<Button Name="tripCalulatorButton" Content="Trip Calculator" Height="100" FontSize="30" HorizontalAlignment="Stretch" Margin="10 10" Padding="10 10" Background="#DB1C1C" FontWeight="Bold" Click="tripCalulatorButton_Click"/>
 				<Button Name="exitButton" Content="Exit" Height="100" FontSize="30" HorizontalAlignment="Stretch" Margin="10 10" Padding="10 5" Background="#1C39DB" FontWeight="Bold"/>
+				
 			</StackPanel>
 		</StackPanel>
 	</Grid>

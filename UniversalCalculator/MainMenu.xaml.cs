@@ -42,5 +42,9 @@ namespace Calculator
 			this.Frame.Navigate(typeof(Currency_Converter));
 		}
 
+		private void tripCalulatorButton_Click(object sender, RoutedEventArgs e)
+		{
+			//Trip calculator C# code will be developed later
+		}
 	}
 }
